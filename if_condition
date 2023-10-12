@@ -1,0 +1,5 @@
+echo "Your age"
+read age 
+if [ "$age"  -lt  18 ] ;  then 
+   echo "Younger"
+fi 

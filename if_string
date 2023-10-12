@@ -1,0 +1,7 @@
+echo "Your name bro"
+read name
+if [ $name = "matt" ] ; then 
+    echo "Hi matt"
+else
+   echo "Hi you"
+fi
